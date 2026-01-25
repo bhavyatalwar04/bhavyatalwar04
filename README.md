@@ -1,5 +1,35 @@
-# 💫 About Me:
-🌟 About Me<br><br>Hey there! 👋 I'm a tech enthusiast on a journey to turn ideas into reality through **code**.<br>Currently diving deep into:<br><br>💻 Web Development – Crafting clean, responsive user experiences<br>📚 Data Structures & Algorithms – Sharpening my problem-solving skills in **Java**<br>🤖 Machine Learning – Exploring how data can drive intelligent solutions<br><br>🚀 What I'm Up To<br><br>🔧 Building projects to apply what I learn<br>🌱 Learning JavaScript, mastering DSA, and stepping into full-stack dev<br>🎯 Preparing for internships, coding challenges.<br>💡 Fun Facts<br><br>🧠 I love learning new things and simplifying complex problems<br>✨ Passionate about impactful tech and creative solutions<br>🤝 Always open to collaborations and contributions!<br><br>
+<h1>Hi there, I'm Bhavya Talwar 👋</h1>
+<div align="center">
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Building+Intelligent+Systems;Problem+Solver" alt="Typing SVG" />
+</a>
+</div>
+
+
+
+
+## 🌟 About Me
+
+I’m a **Computer Science undergraduate** with a strong interest in **Machine Learning, Data Science, and Software Development**.  
+I enjoy turning ideas into practical, real-world solutions through clean code and structured systems.
+
+### 🔍 Currently diving deep into:
+- 💻 Web Development – Clean, responsive user experiences  
+- 📚 Data Structures & Algorithms – Problem-solving in **Java**  
+- 🤖 Machine Learning – Data-driven intelligent solutions  
+
+### 🚀 What I'm Up To
+- 🔧 Building real-world projects  
+- 🌱 Learning JavaScript & Full Stack Development  
+- 🎯 Preparing for internships and coding challenges  
+
+### 💡 Fun Facts
+- 🧠 Love simplifying complex problems  
+- ✨ Passionate about impactful tech  
+- 🤝 Open to collaborations!
+
 
 
 ## 🌐 Socials:
